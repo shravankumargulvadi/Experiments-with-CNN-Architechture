@@ -1,6 +1,5 @@
-
-# Architectural Basics
-## Readme-Assignment-4       
+# EVA Assignment 4
+## Architectural Basics       
 The order in which I considered the 24 points in my experiments is as follows:
 1.Receptive Field
 2.Kernels and how do we decide the number of kernels?
